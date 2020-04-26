@@ -1,2 +1,2 @@
 # database
-M3102 - 2 semester
+M3102 - 2nd semester
